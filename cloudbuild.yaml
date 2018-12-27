@@ -1,4 +1,4 @@
 steps:
 # This step will fail.
 - name: 'busybox'
-  args: ['bin/false']
+  args: ['/bin/false']
